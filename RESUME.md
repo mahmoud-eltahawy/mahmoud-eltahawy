@@ -1,9 +1,10 @@
 # Mahmoud Eltahawy
+---
 **Software Engineer | Web developer | Rust Developer | Typescript Developer**
 - Email: gemmy9300@gmail.com
 - Call Number: +123456789
 - Github: https://github.com/mahmoud-eltahawy
-
+---
 ## Experience
 - **Rust Developer** - **Datinit LLC** - **Remote** \
   **May 2024 - now**
@@ -15,10 +16,10 @@
   with rust at the backend and solidjs or leptos at the frontend\
   and web frontend development using react or angular or leptos\
   and web backend development using nodejs or rust with axum or actix
-
+---
 ## open source projects
 1. **iquity**: https://github.com/mahmoud-eltahawy/Iquity
-
+---
 ## Skills
 - **Rust**
     - Tokio
@@ -44,7 +45,7 @@
     - postgresql
     - postman
     - dbeaver
-
+---
 ### Languages
 - English
 - Arabic(native)
